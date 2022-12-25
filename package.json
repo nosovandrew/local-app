@@ -1,0 +1,38 @@
+{
+    "name": "local-app",
+    "version": "0.1.0",
+    "description": "Starter pack for web development in local environment (without Internet connection).",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "author": "Andrew Nosov",
+    "license": "ISC",
+    "dependencies": {
+        "@reduxjs/toolkit": "latest",
+        "axios": "latest",
+        "dotenv": "latest",
+        "lodash": "latest",
+        "msnodesqlv8": "latest",
+        "mssql": "latest",
+        "next": "latest",
+        "next-seo": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "react-redux": "latest",
+        "react-transition-group": "latest",
+        "styled-components": "latest",
+        "swr": "latest",
+        "tedious": "latest"
+    },
+    "devDependencies": {
+        "@types/lodash": "latest",
+        "@types/mssql": "latest",
+        "@types/node": "latest",
+        "@types/react": "latest",
+        "@types/react-redux": "latest",
+        "@types/styled-components": "latest",
+        "typescript": "latest"
+    }
+}
