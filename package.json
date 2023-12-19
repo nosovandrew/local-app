@@ -16,7 +16,7 @@
         "lodash": "latest",
         "msnodesqlv8": "latest",
         "mssql": "latest",
-        "next": "latest",
+        "next": "^12.0.0",
         "next-seo": "latest",
         "react": "latest",
         "react-dom": "latest",
@@ -24,7 +24,10 @@
         "react-transition-group": "latest",
         "styled-components": "latest",
         "swr": "latest",
-        "tedious": "latest"
+        "tedious": "latest",
+        "node-expose-sspi": "latest",
+        "ldapjs": "latest",
+        "next-auth": "latest"
     },
     "devDependencies": {
         "@types/lodash": "latest",
