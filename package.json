@@ -28,7 +28,7 @@
         "node-expose-sspi": "latest",
         "ldapjs": "latest",
         "next-auth": "latest",
-        "pm2": "latest",
+        "pm2": "latest"
     },
     "devDependencies": {
         "@types/lodash": "latest",
